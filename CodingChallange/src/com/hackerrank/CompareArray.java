@@ -90,7 +90,6 @@ public class CompareArray {
                 bufferedWriter.write(" ");
             }
         }
-
         bufferedWriter.newLine();
 
         bufferedReader.close();
